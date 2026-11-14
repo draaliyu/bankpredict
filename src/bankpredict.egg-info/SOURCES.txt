@@ -1,0 +1,5 @@
+pyproject.toml
+src/bankpredict.egg-info/PKG-INFO
+src/bankpredict.egg-info/SOURCES.txt
+src/bankpredict.egg-info/dependency_links.txt
+src/bankpredict.egg-info/top_level.txt
